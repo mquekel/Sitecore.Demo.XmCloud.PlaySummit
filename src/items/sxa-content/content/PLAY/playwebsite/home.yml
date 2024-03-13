@@ -133,6 +133,98 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{EB2C8403-F00A-4976-8C26-75224DD8EBD1}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles" />
+            <r
+              uid="{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}"
+              s:uid="{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
+              s:uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{62A27B7E-9974-4265-B062-AA36F776B86C}"
+              p:after="r[@uid='{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}']"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Athletes&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=TlH-4IjNyG&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=d37xehA4Y5_DLsD&amp;ComponentDataOverride={&quot;Athlete&quot;:{&quot;params&quot;:{},&quot;headers&quot;:{&quot;Content-Type&quot;:&quot;application/json&quot;,&quot;X-Gql-Token&quot;:&quot;ZlgvTm5OOTNEbWZ0bzU1ZlBjdzZCOVB0MHMxeUxTNFo4UFJDbTAyQjB3TT18aGMtcGxheS1tZWRpYS1mb3JyZXN0ZXItNDhlMjU=&quot;,&quot;Accept&quot;:&quot;application/json&quot;},&quot;jsonpath&quot;:&quot;$.data.allAthlete.results[0]&quot;,&quot;method&quot;:&quot;POST&quot;,&quot;body&quot;:{&quot;query&quot;:&quot;{\n            allAthlete(first: 10) {\n              results {\n                id name __sysCreatedAt\n                athleteName athleteQuote careerStartDate dateOfBirth  hobby id isFeatured name nationality  relatedMedia\n              {\n                results {\n                  ...on Media {\n                    description fileHeight fileId fileName fileSize fileType fileUrl fileWidth id name __sysCreatedAt __sysCreatedBy __sysUpdatedAt __sysUpdatedBy __sysVersion\n                  }\n                }\n              }  __sysCreatedAt __sysCreatedBy __sysUpdatedAt __sysUpdatedBy __sysVersion\n              }\n            }\n          }&quot;},&quot;url&quot;:&quot;https://edge.sitecorecloud.io/api/graphql/v1&quot;}}&amp;ComponentHTMLOverride&amp;ComponentLabel=Athletes&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
+              s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{45FCA8EC-2A99-531D-B270-0389AB473563}"
+              s:uid="{45FCA8EC-2A99-531D-B270-0389AB473563}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{004EEEA1-32B0-4582-BD0C-FA7EFFB14182}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B98006F93-D19D-44C8-A25D-CEC93528F129%7D&amp;CSSStyles">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B3BC9EBFD-3ACD-4994-8D61-0BFEF358A70E%7D&amp;CSSStyles"
+              s:uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{47F9A467-6F47-5D35-9F6F-70D4FA338EC6}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B98006F93-D19D-44C8-A25D-CEC93528F129%7D%7C%7B1F69B9FA-24A7-435F-AFE5-16E05F34A21A%7D&amp;CSSStyles"
+              s:uid="{47F9A467-6F47-5D35-9F6F-70D4FA338EC6}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
+              s:uid="{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{9C37536D-E2AA-5BF2-8103-FA15D43F5121}"
+              s:uid="{9C37536D-E2AA-5BF2-8103-FA15D43F5121}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="ds" />
+              <p:da
+                name="rname" />
+            </r>
+          </d>
+        </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
       Value: Home
@@ -144,7 +236,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "93e39e8f-98c8-483f-94cf-19ff53285bfb"
+      Value: "c6ac412a-8ca9-4098-bfd0-41363c8cdda5"
 - Language: "fr-CA"
   Versions:
   - Version: 1
