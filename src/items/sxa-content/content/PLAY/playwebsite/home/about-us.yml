@@ -136,6 +136,108 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D0AEC7E7-7E64-5C7E-97EF-6C36273BBFC2}"
+              s:uid="{D0AEC7E7-7E64-5C7E-97EF-6C36273BBFC2}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{816710CB-9F03-5860-8E7C-5938120B08F3}"
+              s:uid="{816710CB-9F03-5860-8E7C-5938120B08F3}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{70CAB187-C112-442C-9F98-E49B10D9A267}"
+              p:after="r[@uid='{816710CB-9F03-5860-8E7C-5938120B08F3}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B01F60C86-FA57-4566-AFBE-3A7BDC2A2777%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{9AC2F6C6-1217-43F8-9740-AE0EDC44F89E}"
+              p:after="r[@uid='{70CAB187-C112-442C-9F98-E49B10D9A267}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B0A422334-2B75-4A26-A655-8A8E889ED7E8%7D%7C%7BB9613D1A-5CB6-4B57-A077-96BD603A6350%7D&amp;FieldNames=%7B15C27ABD-0112-46D7-9C95-18F17BF7974E%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{DE75C067-CF50-599C-97E7-A02BB1E3712A}"
+              s:uid="{DE75C067-CF50-599C-97E7-A02BB1E3712A}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{467625EA-A518-59FE-8DA7-39EE5833A223}"
+              s:uid="{467625EA-A518-59FE-8DA7-39EE5833A223}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{EACCECDD-63DE-525D-ACD9-17943F70386E}"
+              s:uid="{EACCECDD-63DE-525D-ACD9-17943F70386E}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{0329B5A3-6404-5286-BB63-8670949781D0}"
+              s:uid="{0329B5A3-6404-5286-BB63-8670949781D0}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{CD75CF06-B5EA-41EE-9898-9F537F0EDFE4}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{42771771-1673-4FB9-B6D5-E42F346161A2}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{272BABAA-458E-405A-80F5-A3633E57F61D}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{5688FA28-557B-41B0-8A4D-FB15AFE0D573}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{D42B2686-19A9-5C64-B74B-423A08BDA2D7}"
+              s:uid="{D42B2686-19A9-5C64-B74B-423A08BDA2D7}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{711722BD-8C6B-5F9E-A7A4-63E3EE0F5487}"
+              s:uid="{711722BD-8C6B-5F9E-A7A4-63E3EE0F5487}">
+              <p:da
+                name="rname" />
+            </r>
+          </d>
+        </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
       Value: About Us
@@ -147,4 +249,4 @@ Languages:
       Value: "about-us"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "58a21bce-2040-4232-bb75-065b9227c252"
+      Value: "13ff22f7-75ab-4bbe-ac90-2336cb579319"
