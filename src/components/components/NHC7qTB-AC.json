@@ -1,0 +1,70 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "fsTxQTihNZ",
+    "componentId": "NHC7qTB-AC",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 2,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: nmYpVLVTgF */ .-grid--custom[data-instance-id=\"nmYpVLVTgF\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"nmYpVLVTgF\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"nmYpVLVTgF\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"nmYpVLVTgF\"><div><p>qwdaswgre</p></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-03-28T08:56:50.576Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-03-28T08:57:29.935Z",
+    "modifiedBy": {
+      "id": "65f1c0648976b7f7d18d3eba",
+      "name": "martijn@quekel.net",
+      "givenName": "Martijn",
+      "familyName": "Quekel",
+      "email": "martijn@quekel.net",
+      "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
+      "nickname": "martijn"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "MCVKEJT8eX",
+    "componentId": "NHC7qTB-AC",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 0,
+    "model": "",
+    "view": "<section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-03-28T08:56:45.804Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-03-28T08:56:46.074Z",
+    "modifiedBy": {
+      "id": "65f1c0648976b7f7d18d3eba",
+      "name": "martijn@quekel.net",
+      "givenName": "Martijn",
+      "familyName": "Quekel",
+      "email": "martijn@quekel.net",
+      "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
+      "nickname": "martijn"
+    }
+  }
+]

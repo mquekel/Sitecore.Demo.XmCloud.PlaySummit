@@ -358,6 +358,44 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "NHC7qTB-AC",
+        "collectionId": "-AC8JhQZKV",
+        "name": "test component",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-03-28T08:56:25.774Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-03-28T08:57:29.935Z",
+        "modifiedBy": {
+          "id": "65f1c0648976b7f7d18d3eba",
+          "name": "martijn@quekel.net",
+          "email": "martijn@quekel.net",
+          "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
+          "nickname": "martijn",
+          "givenName": "Martijn",
+          "familyName": "Quekel"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "NHC7qTB-AC",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-03-28T08:56:45.577Z",
+            "modifiedAt": "2024-03-28T08:56:45.577Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "TlH-4IjNyG",
         "collectionId": "-AC8JhQZKV",
         "name": "Athletes",
