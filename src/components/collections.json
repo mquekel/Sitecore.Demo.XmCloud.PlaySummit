@@ -81,11 +81,51 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "KzEssOTo6j",
+        "collectionId": "JYYIXneyeG",
+        "name": "Speaker Promo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 4,
+        "stagedVersionCount": 4,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "819c5f1d58e0432fbd5aa523ba8aebce"
+        ],
+        "createdAt": "2023-05-25T08:12:41.126Z",
+        "stagedAt": "2023-08-02T09:21:31.13Z",
+        "publishedAt": "2023-08-02T09:21:31.13Z",
+        "modifiedAt": "2024-04-09T17:07:13.378Z",
+        "modifiedBy": {
+          "id": "65f1c0648976b7f7d18d3eba",
+          "name": "martijn@quekel.net",
+          "email": "martijn@quekel.net",
+          "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
+          "nickname": "martijn",
+          "givenName": "Martijn",
+          "familyName": "Quekel"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "KzEssOTo6j",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-04-09T17:07:12.98Z",
+            "modifiedAt": "2024-04-09T17:07:12.98Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "FnbXCgP1cr",
         "collectionId": "JYYIXneyeG",
         "name": "Session Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 3,
         "stagedVersionCount": 3,
         "embeddableVersionCount": 1,
@@ -95,43 +135,29 @@
         "createdAt": "2023-06-29T10:20:06.611Z",
         "stagedAt": "2023-08-02T09:18:50.9Z",
         "publishedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedAt": "2023-08-02T12:50:02.717Z",
+        "modifiedAt": "2024-04-09T17:06:21.4Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "65f1c0648976b7f7d18d3eba",
+          "name": "martijn@quekel.net",
+          "email": "martijn@quekel.net",
+          "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
+          "nickname": "martijn",
+          "givenName": "Martijn",
+          "familyName": "Quekel"
         },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "KzEssOTo6j",
-        "collectionId": "JYYIXneyeG",
-        "name": "Speaker Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 4,
-        "stagedVersionCount": 4,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "819c5f1d58e0432fbd5aa523ba8aebce"
-        ],
-        "createdAt": "2023-05-25T08:12:41.126Z",
-        "stagedAt": "2023-08-02T09:21:31.13Z",
-        "publishedAt": "2023-08-02T09:21:39.373Z",
-        "modifiedAt": "2023-08-02T09:21:39.373Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "FnbXCgP1cr",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-04-09T17:06:20.599Z",
+            "modifiedAt": "2024-04-09T17:06:20.599Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -356,44 +382,6 @@
     "createdAt": "2023-11-15T19:58:11.963Z",
     "modifiedAt": "2023-11-15T19:58:11.963Z",
     "components": [
-      {
-        "libraryId": "generated",
-        "id": "NHC7qTB-AC",
-        "collectionId": "-AC8JhQZKV",
-        "name": "test component",
-        "description": "",
-        "status": "changed",
-        "versionCount": 2,
-        "stagedVersionCount": 0,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-03-28T08:56:25.774Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2024-03-28T08:57:29.935Z",
-        "modifiedBy": {
-          "id": "65f1c0648976b7f7d18d3eba",
-          "name": "martijn@quekel.net",
-          "email": "martijn@quekel.net",
-          "picture": "https://s.gravatar.com/avatar/1497c6fb4e2b35cceb0a30885c5b42ef?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fma.png",
-          "nickname": "martijn",
-          "givenName": "Martijn",
-          "familyName": "Quekel"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "NHC7qTB-AC",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-03-28T08:56:45.577Z",
-            "modifiedAt": "2024-03-28T08:56:45.577Z"
-          }
-        ]
-      },
       {
         "libraryId": "generated",
         "id": "TlH-4IjNyG",

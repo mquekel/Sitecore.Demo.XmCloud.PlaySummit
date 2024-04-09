@@ -165,6 +165,13 @@ Languages:
               s:par="ComponentName=Athletes&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=TlH-4IjNyG&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=d37xehA4Y5_DLsD&amp;ComponentDataOverride={&quot;Athlete&quot;:{&quot;params&quot;:{},&quot;headers&quot;:{&quot;Content-Type&quot;:&quot;application/json&quot;,&quot;X-Gql-Token&quot;:&quot;ZlgvTm5OOTNEbWZ0bzU1ZlBjdzZCOVB0MHMxeUxTNFo4UFJDbTAyQjB3TT18aGMtcGxheS1tZWRpYS1mb3JyZXN0ZXItNDhlMjU=&quot;,&quot;Accept&quot;:&quot;application/json&quot;},&quot;jsonpath&quot;:&quot;$.data.allAthlete.results[0]&quot;,&quot;method&quot;:&quot;POST&quot;,&quot;body&quot;:{&quot;query&quot;:&quot;{\n            allAthlete(first: 10) {\n              results {\n                id name __sysCreatedAt\n                athleteName athleteQuote careerStartDate dateOfBirth  hobby id isFeatured name nationality  relatedMedia\n              {\n                results {\n                  ...on Media {\n                    description fileHeight fileId fileName fileSize fileType fileUrl fileWidth id name __sysCreatedAt __sysCreatedBy __sysUpdatedAt __sysUpdatedBy __sysVersion\n                  }\n                }\n              }  __sysCreatedAt __sysCreatedBy __sysUpdatedAt __sysUpdatedBy __sysVersion\n              }\n            }\n          }&quot;},&quot;url&quot;:&quot;https://edge.sitecorecloud.io/api/graphql/v1&quot;}}&amp;ComponentHTMLOverride&amp;ComponentLabel=Athletes&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="/headless-main/sxa-main/container-1" />
             <r
+              uid="{8866E557-B1BE-410B-B513-60F1773410EC}"
+              p:after="r[@uid='{62A27B7E-9974-4265-B062-AA36F776B86C}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B15C27ABD-0112-46D7-9C95-18F17BF7974E%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
               s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:da
@@ -236,7 +243,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c6ac412a-8ca9-4098-bfd0-41363c8cdda5"
+      Value: "d9881c25-627d-41bb-ae67-05d5564a91f1"
 - Language: "fr-CA"
   Versions:
   - Version: 1
