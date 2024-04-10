@@ -3,7 +3,6 @@ ID: "08db12b1-0af8-4b3e-9aa4-a25655edbd56"
 Parent: "2d1d7aca-9597-5ca6-85b2-9b04907e4298"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: /sitecore/content/PLAY/playwebsite/home/TEST
-BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
@@ -80,9 +79,16 @@ Languages:
             </r>
             <r
               uid="{B4B6982B-3A6F-4BA7-B7DF-BF24BF548E97}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{26BB3FC5-7C36-4097-A052-2F88D2DFCE74}']"
               s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B2181EB9E-2230-405F-AFDF-8D31773C123C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-main/container-1/container-3" />
+            <r
+              uid="{BAF37FDC-D0F9-4605-9D9A-0540D0B57E29}"
+              p:after="*[1=2]"
+              s:ds="55565a9f-a737-4ac8-b612-89752b3d64b0"
+              s:id="{E539EB22-D679-4701-A3EC-9C56CFC95638}"
+              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
               s:ph="/headless-main/sxa-main/container-1/container-3" />
           </d>
         </r>
@@ -94,7 +100,7 @@ Languages:
       Value: TEST
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad97f074-02d9-4fc9-915b-92bd0bf7f200"
+      Value: "40fc4570-ccae-4c30-a568-2575f686804a"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

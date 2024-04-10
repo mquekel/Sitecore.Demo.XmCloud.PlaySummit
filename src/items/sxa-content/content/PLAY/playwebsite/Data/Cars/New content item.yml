@@ -1,0 +1,29 @@
+﻿---
+ID: "55565a9f-a737-4ac8-b612-89752b3d64b0"
+Parent: "87bc0b5e-e4d9-48f9-a856-ac181d102fee"
+Template: "cd5f4d50-91a4-42a0-ac7c-698a0ebf179e"
+Path: /sitecore/content/PLAY/playwebsite/Data/Cars/New content item
+SharedFields:
+- ID: "5a270abe-7c40-42dd-8f07-0ba03d09dc47"
+  Hint: Image
+  Value: |
+    <image mediaid="{8743580F-0103-5F0F-B5F3-6451B7E72AA2}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6843dbfe-8274-45f9-8f74-9f04442b677c"
+      Hint: Brand
+      Value: Skoda
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2be8faa-8b96-4dc6-a7d1-1f5045558971"
+    - ID: "cd64ddf1-ea87-4863-a426-7710b4fa6d82"
+      Hint: Description
+      Value: |
+        De voordelen van de Octavia · Volgepakt op pad Meeste ruimte in zijn klasse. Met een laadruimte tot 1.700 liter is de Octavia Combi de ruimste in zijn klasse.
+        
+    - ID: "db239c21-82e5-478c-bb1e-168594d11ea8"
+      Hint: Type
+      Value: Octavia

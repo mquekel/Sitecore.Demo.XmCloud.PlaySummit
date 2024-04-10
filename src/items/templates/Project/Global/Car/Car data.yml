@@ -1,0 +1,13 @@
+﻿---
+ID: "9c5c4584-4e35-458e-81c8-ff7f9634f84f"
+Parent: "cd5f4d50-91a4-42a0-ac7c-698a0ebf179e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/Car/Car data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f37de90-c250-42b3-8050-4241faed7bb5"

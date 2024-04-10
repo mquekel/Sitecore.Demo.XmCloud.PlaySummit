@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/3a360858-34df-461c-81c9-337b6b1a56ee",
   "ref": "3a360858-34df-461c-81c9-337b6b1a56ee",
   "name": "embedded_{scope}_08db12b10af84b3e9aa4a25655edbd56_en",
-  "modifiedByRef": "auth0|65f1c0648976b7f7d18d3eba",
-  "modifiedAt": "2024-04-09T21:19:23.961Z",
-  "revision": 1,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-04-10T07:14:51.306Z",
+  "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_08db12b10af84b3e9aa4a25655edbd56_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -19,7 +19,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-04-09T21:19:23.961Z",
+    "modifiedAt": "2024-04-10T07:14:51.306Z",
     "splits": []
   },
   "variants": [],
