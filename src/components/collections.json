@@ -226,19 +226,7 @@
           "givenName": "Martijn",
           "familyName": "Quekel"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "jYH7tDslvv",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-04-11T13:43:40.409Z",
-            "modifiedAt": "2024-04-11T13:43:40.409Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -254,7 +242,7 @@
           "cd5f4d5091a442a0ac7c698a0ebf179e"
         ],
         "createdAt": "2024-04-11T09:52:37.785Z",
-        "stagedAt": "2024-04-11T10:07:41.892Z",
+        "stagedAt": null,
         "publishedAt": "2024-04-11T10:07:41.892Z",
         "modifiedAt": "2024-04-11T10:15:40.151Z",
         "modifiedBy": {
@@ -266,19 +254,7 @@
           "givenName": "Martijn",
           "familyName": "Quekel"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "H8o4L0OcwZ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-04-11T09:52:53.882Z",
-            "modifiedAt": "2024-04-11T09:52:53.882Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
